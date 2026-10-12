@@ -1,4 +1,4 @@
-# Sources et 2 ou 3 lignes
+# Sources
 
 - Eurostat
 - ACER
